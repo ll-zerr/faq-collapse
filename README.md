@@ -27,7 +27,7 @@ The goal of the project is to toggle the button on each card to reveal or hide t
 - Start the files from a boiler template.
 - Create containers to display each question, the corresponding answer, and the buttons for toggling.
 - Add styles for the containers.
-- Create a variable for the target element.
+- Create a variable for the target elements.
 - Add an event listener to each button using the forEach() method.
 - Apply the active class with the toggle() method to the container that holds the button the user has clicked.
 
